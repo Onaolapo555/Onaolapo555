@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Onaolapo555
-- 👀 I’m interested in hacking and coding
-- 🌱 I’m currently learning computer science and hacking
-- 💞️ I’m looking to collaborate on hacking projects
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning computer science and software engineering
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
