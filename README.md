@@ -33,6 +33,7 @@ Steadfast Int is a comprehensive e-commerce platform dedicated to providing high
 **LIVE (https://steadfast.ng/)
 
 
+
 ##PayForeign
 International payment gateway platform facilitating cross-border transactions and currency conversions
 
@@ -40,13 +41,19 @@ Description
 A robust international payment gateway that enables seamless cross-border transactions and real-time currency conversions. Features include multi-currency support, competitive exchange rates, and secure payment processing.
 **LIVE (https://payforeign-app.vercel.app/)
 
+
+
 ##Nuriale - E-commerce Platform
 Jewelry brand that specializes in creating unique, handcrafted pieces that celebrate individuality and style.
 LIVE (https://nuriale.com/)
 
+
+
 ##Desidoodles - E-commerce Platform
 T-shirt and apparel brand that offers a wide range of stylish and comfortable clothing options for all ages.
 LIVE (https://desidoodles.in/)
+
+
 
 ## 📫 Connect With Me
 - 🐦 [X / Twitter](https://x.com/IzzysPEpRena)
